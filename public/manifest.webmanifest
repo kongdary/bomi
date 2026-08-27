@@ -1,0 +1,12 @@
+{
+  "name": "BOMI BEAUTY",
+  "short_name": "BOMI",
+  "description": "대구 복현동 네일·속눈썹·메이크업 보미뷰티",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFDF9",
+  "theme_color": "#FFFDF9",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
